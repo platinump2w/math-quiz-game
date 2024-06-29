@@ -1,13 +1,13 @@
 {
   "main.css": "/math-quiz-game/static/css/main.6b2be876.chunk.css",
-  "main.js": "/math-quiz-game/static/js/main.8ba44d54.chunk.js",
-  "main.js.map": "/math-quiz-game/static/js/main.8ba44d54.chunk.js.map",
+  "main.js": "/math-quiz-game/static/js/main.25eb0c87.chunk.js",
+  "main.js.map": "/math-quiz-game/static/js/main.25eb0c87.chunk.js.map",
   "runtime~main.js": "/math-quiz-game/static/js/runtime~main.d5ceb3ba.js",
   "runtime~main.js.map": "/math-quiz-game/static/js/runtime~main.d5ceb3ba.js.map",
   "static/js/2.b49f59df.chunk.js": "/math-quiz-game/static/js/2.b49f59df.chunk.js",
   "static/js/2.b49f59df.chunk.js.map": "/math-quiz-game/static/js/2.b49f59df.chunk.js.map",
   "index.html": "/math-quiz-game/index.html",
-  "precache-manifest.cff0a8818f4b38dbf6637bfb2906505a.js": "/math-quiz-game/precache-manifest.cff0a8818f4b38dbf6637bfb2906505a.js",
+  "precache-manifest.51458e59b8f88f993b4579139d1f862a.js": "/math-quiz-game/precache-manifest.51458e59b8f88f993b4579139d1f862a.js",
   "service-worker.js": "/math-quiz-game/service-worker.js",
   "static/css/main.6b2be876.chunk.css.map": "/math-quiz-game/static/css/main.6b2be876.chunk.css.map"
 }
