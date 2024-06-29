@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e03115dc2d0bd8b23080",
-    "url": "/math-quiz-game/static/css/main.68c8a17c.chunk.css"
+    "revision": "83a2813a5d9812470f6a",
+    "url": "/math-quiz-game/static/css/main.7944c41e.chunk.css"
   },
   {
-    "revision": "e03115dc2d0bd8b23080",
-    "url": "/math-quiz-game/static/js/main.bbc2b88e.chunk.js"
+    "revision": "83a2813a5d9812470f6a",
+    "url": "/math-quiz-game/static/js/main.e9b9d75b.chunk.js"
   },
   {
     "revision": "3614bf9e069dfc3c187d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/math-quiz-game/static/js/2.b49f59df.chunk.js"
   },
   {
-    "revision": "b242632ffb5adf647136aede2996dafc",
+    "revision": "e457179a0d841fe6367f26fbdc8b9ee6",
     "url": "/math-quiz-game/index.html"
   }
 ];
